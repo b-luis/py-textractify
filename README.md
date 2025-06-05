@@ -54,8 +54,8 @@ This installation procedure assumes you are on a Windows system, and have `pip` 
    
    or you can clone using this command:
     ```
-    git clone https://github.com/muichii/textractify.git
-    cd textractify
+    git clone https://github.com/b-luis/py-textractify.git
+    cd py-textractify
     ```
     
 2. Create a new virtual env:
